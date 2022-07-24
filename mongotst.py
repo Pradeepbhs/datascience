@@ -14,4 +14,4 @@ d1 = {"name":"pradeep",
 db1 = client['mongotst']
 coll = db1['test']
 coll.insert_one(d1)
-print("inserted")
+print("abc")
